@@ -5,6 +5,7 @@ $(window).load(function () {
 		document.getElementById("P3"), document.getElementById("P4"),
 		document.getElementById("P5")); // Получаем обьекты пунктов меню
 	a[0].style.left = -Shft + 'px';
+	qweqweqwe
 	a[1].style.left = -Shft + 'px';
 	a[2].style.left = -Shft + 'px';
 	a[3].style.left = -Shft + 'px';
